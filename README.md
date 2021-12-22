@@ -34,9 +34,9 @@ THEN I find a concise, descriptive title
 
 Application GitHub URL:
 
-<https://www.markdownguide.org>
+<https://github.com/dieres2010/First-Challenge.git>
 
 
 Application Deployed:
 
-<>
+<https://dieres2010.github.io/First-Challenge/Develop>
