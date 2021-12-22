@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 ## Web Application's Appearance
 
 
-![Web Application's Appearance Image](./Develop\assets\images\01-html-css-git-homework-demo.png)
+![Web Application's Appearance Image](https://github.com/dieres2010/First-Challenge/blob/main/Develop/assets/images/01-html-css-git-homework-demo.png)
 
 
 
